@@ -1,0 +1,4 @@
+Primärfarbe: #212121
+Basiston:    #F5F5F5
+Akzentfarbe: #D4AF37
+Textfarbe:   #3A3A3A
